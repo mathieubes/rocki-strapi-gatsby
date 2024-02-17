@@ -3,8 +3,7 @@ email: bs.mathieu@hotmail.com
 password: Password.1
 
 # Warning
-Tous les .env etc... sont dans les fichiers deja je les ai pousser sur git
-Don
+Tous les .env etc... sont dans les fichiers deja je les ai pousse sur git
 
 # Mise en place
 
