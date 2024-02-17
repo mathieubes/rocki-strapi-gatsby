@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "events",
+  "info": {
+    "singularName": "event",
+    "pluralName": "events",
+    "displayName": "Event"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "event_type": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::event-type.event-type"
+    },
+    "titlePrefix": {
+      "type": "string"
+    },
+    "titleSuffix": {
+      "type": "string"
+    },
+    "iconForCalendar": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "priceOptions": {
+      "type": "dynamiczone",
+      "components": [
+        "pricing.pricing"
+      ]
+    }
+  }
+}

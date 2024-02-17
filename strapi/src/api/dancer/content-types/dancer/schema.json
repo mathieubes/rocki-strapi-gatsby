@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "dancers",
+  "info": {
+    "singularName": "dancer",
+    "pluralName": "dancers",
+    "displayName": "Dancer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstName": {
+      "type": "string",
+      "required": true
+    },
+    "lastName": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "email",
+      "unique": true
+    },
+    "artistName": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_pricing_pricings",
+  "info": {
+    "displayName": "Pricing",
+    "icon": "priceTag"
+  },
+  "options": {},
+  "attributes": {
+    "amount": {
+      "type": "decimal"
+    }
+  }
+}

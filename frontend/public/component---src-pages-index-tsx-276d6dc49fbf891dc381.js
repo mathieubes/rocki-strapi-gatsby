@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrock_it_gatsby=self.webpackChunkrock_it_gatsby||[]).push([[691],{7200:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var r=n(7294),u=n(4160);function a(e){let{data:t}=e;return console.log(t),r.createElement(u.rU,{to:"/events"},"Aller aux events")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-276d6dc49fbf891dc381.js.map

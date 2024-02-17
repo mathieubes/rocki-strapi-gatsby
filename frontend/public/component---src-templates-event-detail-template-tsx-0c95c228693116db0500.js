@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrock_it_gatsby=self.webpackChunkrock_it_gatsby||[]).push([[841],{7925:function(t,e,n){n.r(e),n.d(e,{default:function(){return r}});var u=n(7294);function r(){return u.createElement("h1",null,"Event detail template")}}}]);
+//# sourceMappingURL=component---src-templates-event-detail-template-tsx-0c95c228693116db0500.js.map
